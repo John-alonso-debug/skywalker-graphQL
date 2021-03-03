@@ -1,7 +1,7 @@
 # Graph Node Docker Image
 
 Preconfigured Docker image for running a Graph Node.
-
+docker-compose kill && docker-compose rm -f && rm -rf data
 ## Usage
 
 ```sh
